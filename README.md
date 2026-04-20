@@ -11,9 +11,10 @@ Loyola University Maryland, Psychology BA, 2029
 ***
 ### Projects
 
-#### Personality Test
+#### Grade Calculator
  - Project 1 Summary
- - [insert project 1 screenshot here]
+ - ![Screenshot of Grade Calculator](assets/Screenshot%202026-04-20%20at%201.23.35%E2%80%AFPM.png)
+ - [Grade Calculator Excel Link](https://studentsloyola-my.sharepoint.com/:x:/g/personal/vgramos_loyola_edu/IQDpmm5hDuR5TrJQDsS5wHFdAViQvS_YLy4duGCYzrrPlJA?e=ck5Kq7)
  - Project 1 Report
 ***
 #### Project 2 Title
