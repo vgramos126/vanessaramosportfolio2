@@ -6,7 +6,6 @@ Contact Info: vgramos@loyola.edu
 Hello! I am looking to be a therapist in the psychology field and children’s development.
 With skills in communication, empathy, active listening, and problem-solving, I am able to support clients through emotional challenges, build trust, and achieve meaningful personal growth outcomes. I am adept at using tools such as Microsoft Office and Excel for basic data tracking systems for documentation and organization.
 My compassionate skill set, commitment to helping others, and passion for child development make me as a valuable asset. In my spare time, I like to read and spend time with my little sister.
-You can find me at vgramos@loyola.edu
 
 ### Education 
 Dulaney HS 2025 
